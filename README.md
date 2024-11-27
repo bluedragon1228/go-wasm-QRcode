@@ -200,4 +200,4 @@ MIT
 
 ## Author
 
-Yuki (@yukithm)
+Diego (@bluedragon1228)
